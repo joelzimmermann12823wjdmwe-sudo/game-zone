@@ -1,0 +1,29 @@
+[
+  {
+    "id": "1",
+    "slug": "space-dash",
+    "title": "Space Dash",
+    "genre": "Runner",
+    "thumbnail": "/images/thumbnails/space-dash.webp",
+    "rating": 4.8,
+    "isNew": true
+  },
+  {
+    "id": "2",
+    "slug": "tower-mania",
+    "title": "Tower Mania",
+    "genre": "Puzzle",
+    "thumbnail": "/images/thumbnails/tower-mania.webp",
+    "rating": 4.2,
+    "isNew": false
+  },
+  {
+    "id": "3",
+    "slug": "block-jumper",
+    "title": "Block Jumper",
+    "genre": "Arcade",
+    "thumbnail": "/images/thumbnails/block-jumper.webp",
+    "rating": 4.6,
+    "isNew": true
+  }
+]
